@@ -10,47 +10,37 @@ keywords:
 
 # Research
 
-Dr. Doe's research focuses on advancing open-source data science through machine learning and cloud computing.
+Renato's research focuses on Tectonic Geomorphology, Environmental Sciences, Landscape Evolution, and Natural Hazards (e.g., flooding, mass-movement).
 
 ## Research Areas
 
+- Geomorphology
 - Data Science
 - Machine Learning
 - Open-Source Software Development
-- Cloud Computing
-
----
-
-## Patents
-
-- J. Doe, J. Smith. "Method and system for automated data processing." U.S. Patent Application No. 12/345,678, filed January 2025.
-
----
-
-## Books
-
-- **J. Doe** (2026). *Data Science with Python*. Publisher Name. [https://example.com/book](https://example.com/book)
 
 ---
 
 ## Refereed Publications
 
-**Published**: 10 papers | **Citations**: 500+ | *h*-index: 8
+**Published**: 3 papers | **Citations**: 15+ | *h*-index: 3
 
-:::{dropdown} 2026
+:::{dropdown} 2025
 :open:
 
-**J. Doe**, J. Smith, A. Johnson (2026). "Deep learning for geospatial analysis." *Journal of Data Science*, 15(3), 123--145. [https://doi.org/10.1234/example1](https://doi.org/10.1234/example1)
-
-A. Johnson, **J. Doe** (2026). "Scalable cloud computing for large datasets." *IEEE Transactions on Big Data*, 8(2), 456--470. [https://doi.org/10.1234/example2](https://doi.org/10.1234/example2)
+BL da Cruz, RE da Silva Archanjo, **R da Silva**, DB Santana (2025). "Reorganization of the drainage network based on morphostructural controls in passive margins." *Geomorphology*, 478, 123--145. [https://doi.org/10.1016/j.geomorph.2025.109693](https://doi.org/10.1016/j.geomorph.2025.109693)
 
 :::
 
-:::{dropdown} 2025
+:::{dropdown} 2024
 
-**J. Doe**, B. Williams (2025). "Open-source tools for reproducible research." *Nature Methods*, 22(1), 78--92. [https://doi.org/10.1234/example3](https://doi.org/10.1234/example3)
+L Shelby, **R Da Silva** (2024). "Retrieval-augmented Generation: Empowering Landscape Architects with Data-driven Design." *Journal of Digital Landscape Architecture*, 22(1), 267--276. [https://doi.org/10.14627/537752025](https://doi.org/10.14627/537752025)
 
-C. Brown, **J. Doe**, D. Lee (2025). "Machine learning in environmental science." *Environmental Modelling & Software*, 150, 105--120. [https://doi.org/10.1234/example4](https://doi.org/10.1234/example4)
+:::
+
+:::{dropdown} 2023
+
+**R da Silva**, NF Fernandes, CL Mello (2023). "Drainage network rearrangement during the formation and segmentation of a Paleogene intraplate half-graben: Insights from fluvial captures records and longitudinal profiles." *Journal of South American Earth Sciences*, 127(1). [https://doi.org/10.1016/j.jsames.2023.104407](https://doi.org/10.1016/j.jsames.2023.104407)
 
 :::
 
@@ -63,18 +53,17 @@ C. Brown, **J. Doe**, D. Lee (2025). "Machine learning in environmental science.
 :::{dropdown} As PI
 :open:
 
-**J. Doe** (PI). "Scalable Data Science Infrastructure." National Science Foundation (NSF). $500,000. 2024--2027.
+**R Da Silva** (PI), P Val (Co-PI). "Constraining the Lithological Influence and the Ongoing Geomorphic Activity in
+Tectonically Dead Landscapes." CUNY Dissertation Fellowship. $28,000. 2026--2027.
 
-**J. Doe** (PI). "Open-Source Tools for Machine Learning." Department of Energy (DOE). $250,000. 2023--2025.
+**R Da Silva** (PI), P Val (Co-PI). "RiverCaptureFinder: Automated Detection and Tracking of River Capture in Numerical Landscape Evolution Models." Provost Digital Initiatives. $2,000. 2026--2027.
 
-:::
+**R Da Silva** (PI). Futures Initiative’s Paul C. Notari Environmental Studies Grant. $500. 2024--2025.
 
-:::{dropdown} As Co-PI
-
-J. Smith (PI), **J. Doe** (Co-PI). "Cloud Computing for Scientific Research." NSF. $750,000. 2024--2028.
+**R Da Silva** (PI) CACI Fellowship. $800. 2023--2024.
 
 :::
 
 ### Pending
 
-**J. Doe** (PI). "AI-Driven Data Analytics Platform." NSF. $600,000. 2026--2029. (Submitted March 2026)
+**R Da Silva** (PI), P Val (Co-PI). "Exploring the aftermath of river captures in areas with high lithologic contrast: constraining the tools-and-cover effect on bedrock erosion using river surveys and cosmogenic nuclides." GSA Graduate Student Research Grant. $3,000. 2026--2027. (Submitted February 2026)

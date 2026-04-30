@@ -1,6 +1,6 @@
 ---
 title: Software
-description: Open-source software projects created and maintained by Jane Doe.
+description: Open-source software projects created and maintained by Renato Da Silva.
 keywords:
   - Open-source Software
   - Python
@@ -9,7 +9,7 @@ keywords:
 
 # Open-Source Software
 
-Dr. Doe is the creator and maintainer of several open-source software packages for data science and machine learning.
+Renato Da Silva is the creator and maintainer of several open-source software packages of data science and machine learning applied to Geosciences.
 
 ---
 
@@ -18,31 +18,31 @@ Dr. Doe is the creator and maintainer of several open-source software packages f
 ::::{grid} 2 2 4 4
 
 :::{card}
-:link: https://mystmd.org
-![mystmd](images/myst.webp)
+:link: https://github.com/renatovillela93/RAG_OpenAI
+![DomainRAG](images/DomainRAG.png)
 +++
-**MyST**
+**DomainRAG**
 :::
 
 :::{card}
 :link: https://jupyterbook.org
-![jupyter-book](images/jupyter-book.webp)
+![RiverCaptureFinder](images/RiverCaptureFinder.png)
 +++
-**Jupyter Book**
+**RiverCaptureFinder**
 :::
 
 :::{card}
 :link: https://jupyter.org
-![jupyter](images/jupyter.webp)
+![DivideTracker](images/DivideTracker.png)
 +++
-**Jupyter**
+**DivideTracker**
 :::
 
 :::{card}
 :link: https://python.org
-![python](images/python.webp)
+![GeoFloodAI](images/GeoFloodAI.png)
 +++
-**Python**
+**GeoFloodAI**
 :::
 
 ::::

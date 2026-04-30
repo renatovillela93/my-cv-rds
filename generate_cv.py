@@ -244,22 +244,22 @@ def gen_preamble():
 
 #show: resume.with(
   author: (
-    firstname: "Jane",
-    lastname: "Doe",
-    email: "jane.doe@example.com",
-    phone: "(+1) 234-567-8901",
-    homepage: "https://example.com",
-    github: "username",
-    address: "123 Science Building, Example University, Anytown, ST 12345",
+    firstname: "Renato",
+    lastname: "Villela Da Silva",
+    email: "rdasilva@gradcenter.cuny.edu",
+    phone: "(+1) 347-923-2620",
+    homepage: "https://renatovillela93.github.io/my-cv-rds/",
+    github: "renatovillela93",
+    address: "65-30 Kissena Blvd, Flushing NY 11367",
     positions: (
-      "Assistant Professor",
-      "Data Scientist",
+      "Graduate Research and Teaching Assistant, CUNY Graduate Center",
+      "GeoData Scientist",
     ),
     custom: (
       (text: "username", icon: "twitter", link: "https://twitter.com/username"),
-      (text: "Jane Doe", icon: "linkedin", link: "https://www.linkedin.com/in/username"),
-      (text: "Jane Doe", icon: "google-scholar", link: "https://scholar.google.com"),
-      (text: "0000-0000-0000-0000", icon: "orcid", link: "https://orcid.org/0000-0000-0000-0000"),
+      (text: "Renato Da Silva", icon: "linkedin", link: "https://www.linkedin.com/in/renatovillelamafra/"),
+      (text: "Renato Da Silva", icon: "google-scholar", link: "https://scholar.google.com/citations?user=CIByitcAAAAJ&hl=fr"),
+      (text: "0000-0002-1512-380X", icon: "orcid", link: "https://orcid.org/0000-0002-1512-380X"),
     ),
   ),
   profile-picture: none,
@@ -275,7 +275,7 @@ def gen_preamble():
 #set heading(bookmarked: true)
 
 // Set PDF document title
-#set document(title: "Jane Doe - CV")"""
+#set document(title: "Renato Da Silva - CV")"""
 
 
 def gen_education(about):
