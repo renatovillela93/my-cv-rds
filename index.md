@@ -1,7 +1,7 @@
 ---
-title: Jane Doe
-subtitle: Open-Source Software Engineer & Data Scientist
-description: Jane Doe, Assistant Professor at Example University, builds open-source tools for data science and machine learning.
+title: Renato Da Silva
+subtitle: Geologist MSc. & MPh. | PhD Candidate
+description: Renato Villela Da Silva, PhD candidate at The Graduate Center (CUNY), builds open-source tools for geodata science and machine learning.
 # thumbnail: images/profile-thumbnail.webp
 ---
 
@@ -10,8 +10,8 @@ description: Jane Doe, Assistant Professor at Example University, builds open-so
 :::{grid-item}
 :columns: 12 12 4 4
 
-```{image} logo.png
-:alt: Jane Doe
+```{image} img_avatar.png
+:alt: Renato Da Silva
 :width: 95%
 ```
 
@@ -20,21 +20,21 @@ description: Jane Doe, Assistant Professor at Example University, builds open-so
 :::{grid-item}
 :columns: 12 12 8 8
 
-**Software Engineer** | **Data Scientist**
+**PhD Candidate** | **Graduate Research & Teaching Assistant**
 
-[Department of Computer Science](https://example.com/cs), Example University
+[Department of Earth and Environmental Science](https://www.gc.cuny.edu/people/renato-da-silva), The Graduate Center (CUNY)
 
-[123 Science Building](https://maps.google.com), Anytown, ST 12345
+[65-30 Kissena Blvd](https://maps.app.goo.gl/8UbakDzveSPWex6RA), Flushing, NY 11367
 
-[jane.doe@example.com](mailto:jane.doe@example.com) | [example.com](https://example.com)
+[rdasilva@gradcenter.cuny.edu](mailto:rdasilva@gradcenter.cuny.edu) | [github.com](https://github.com/renatovillela93)
 
-**Research Interests:** Data Science, Machine Learning, Open-Source Software Development, Cloud Computing
+**Research Interests:** GeoAI, Geomorphology, Data Science, Machine Learning, Open-Source Software Development, Cloud Computing
 
 [CV (PDF)](cv.pdf) |
-[Google Scholar](https://scholar.google.com) |
-[ORCID](https://orcid.org/0000-0000-0000-0000) |
-[LinkedIn](https://www.linkedin.com/in/username) |
-[GitHub](https://github.com/username) |
+[Google Scholar](https://scholar.google.com/citations?user=CIByitcAAAAJ&hl=fr) |
+[ORCID](https://orcid.org/0000-0002-1512-380X) |
+[LinkedIn](https://www.linkedin.com/in/renatovillelamafra/) |
+[GitHub](https://github.com/renatovillela93) |
 [Twitter](https://twitter.com/username)
 
 :::
@@ -47,31 +47,31 @@ description: Jane Doe, Assistant Professor at Example University, builds open-so
 ::::{grid} 2 2 4 4
 
 :::{card}
-:link: https://mystmd.org
-![mystmd](pages/images/myst.webp)
+:link: https://github.com/renatovillela93/RAG_OpenAI
+![DomainRAG](DomainRAG.png)
 +++
-**MyST**
+**DomainRAG**
 :::
 
 :::{card}
 :link: https://jupyterbook.org
-![jupyter-book](pages/images/jupyter-book.webp)
+![RiverCaptureFinder](RiverCaptureFinder.png)
 +++
-**Jupyter Book**
+**RiverCaptureFinder**
 :::
 
 :::{card}
 :link: https://jupyter.org
-![jupyter](pages/images/jupyter.webp)
+![DivideTracker](DivideTracker.png)
 +++
-**Jupyter**
+**DivideTracker**
 :::
 
 :::{card}
 :link: https://python.org
-![python](pages/images/python.webp)
+![GeoFloodAI](GeoFloodAI.png)
 +++
-**Python**
+**GeoFloodAI**
 :::
 
 ::::
@@ -84,32 +84,22 @@ description: Jane Doe, Assistant Professor at Example University, builds open-so
 
 :::{card} Publications 📚
 :link: pages/research
-10+ Refereed Publications
+Refereed Publications
 :::
 
 :::{card} Software 💻
 :link: pages/software
-5+ Open-Source Projects
+Open-Source Projects
 :::
 
 :::{card} Teaching 🎓
 :link: pages/teaching
-5+ Courses Taught
-:::
-
-:::{card} Talks 🎤
-:link: pages/talks
-10+ Invited Talks
+Courses Taught
 :::
 
 :::{card} Awards 🏆
 :link: pages/awards
-5+ Awards & Honors
-:::
-
-:::{card} Community 🌍
-:link: pages/services
-Professional & institutional service
+Awards & Honors
 :::
 
 :::{card} Blog ✍️
